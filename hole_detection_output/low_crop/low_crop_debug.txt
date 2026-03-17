@@ -1,0 +1,18 @@
+[INFO] file=ptcld/low_crop.xyz
+[INFO] detected_holes=5
+[INFO] plane_normal=[0.5876587440720747, -0.005191238062889015, 0.8090922392181291]
+[INFO] surface_band_mm=0.2276
+[INFO] surface_points_used=412924
+[DEBUG] comp=01 area_px=32532 bbox=(0,0,626,617) circ=0.062 diam_mm=28.411 keep=False
+[DEBUG] comp=02 area_px= 315 bbox=(173,161,21,21) circ=0.649 diam_mm=0.764 keep=True
+[DEBUG] comp=03 area_px= 227 bbox=(475,161,17,18) circ=0.628 diam_mm=0.657 keep=True
+[DEBUG] comp=04 area_px= 327 bbox=(123,315,22,18) circ=0.735 diam_mm=0.788 keep=True
+[DEBUG] comp=05 area_px= 389 bbox=(477,459,24,23) circ=0.679 diam_mm=0.856 keep=True
+[DEBUG] comp=06 area_px= 405 bbox=(173,462,25,22) circ=0.695 diam_mm=0.880 keep=True
+[DEBUG] comp=07 area_px= 194 bbox=(36,613,54,4) circ=0.139 diam_mm=1.297 keep=False
+[DEBUG] comp=08 area_px= 189 bbox=(101,613,61,4) circ=0.102 diam_mm=1.455 keep=False
+[DEBUG] comp=09 area_px=  24 bbox=(165,614,8,3) circ=0.543 diam_mm=0.210 keep=False
+[DEBUG] comp=10 area_px= 108 bbox=(176,614,36,3) circ=0.161 diam_mm=0.855 keep=False
+[DEBUG] comp=11 area_px=  51 bbox=(225,614,17,3) circ=0.310 diam_mm=0.417 keep=False
+[DEBUG] comp=12 area_px=  18 bbox=(256,614,6,3) circ=0.641 diam_mm=0.165 keep=False
+[DEBUG] comp=13 area_px=  15 bbox=(295,614,5,3) circ=0.698 diam_mm=0.142 keep=False

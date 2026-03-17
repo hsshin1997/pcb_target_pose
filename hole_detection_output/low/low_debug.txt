@@ -1,0 +1,125 @@
+[INFO] file=ptcld/low.xyz
+[INFO] detected_holes=18
+[INFO] plane_normal=[0.5873209631191664, -0.0027850635290872505, 0.8093493248912449]
+[INFO] surface_band_mm=0.3627
+[INFO] surface_points_used=1227534
+[DEBUG] comp=01 area_px=26893 bbox=(106,0,464,124) circ=0.147 diam_mm=13.387 keep=False
+[DEBUG] comp=02 area_px=1286 bbox=(42,57,57,79) circ=0.132 diam_mm=2.396 keep=False
+[DEBUG] comp=03 area_px=1065 bbox=(569,57,46,38) circ=0.162 diam_mm=1.462 keep=False
+[DEBUG] comp=04 area_px=1748 bbox=(618,57,42,77) circ=0.288 diam_mm=2.317 keep=False
+[DEBUG] comp=05 area_px= 502 bbox=(655,57,35,32) circ=0.206 diam_mm=1.143 keep=False
+[DEBUG] comp=06 area_px=37981 bbox=(0,58,39,1442) circ=0.050 diam_mm=38.052 keep=False
+[DEBUG] comp=07 area_px=  58 bbox=(30,58,8,8) circ=0.768 diam_mm=0.309 keep=False
+[DEBUG] comp=08 area_px= 101 bbox=(695,61,8,14) circ=0.675 diam_mm=0.442 keep=False
+[DEBUG] comp=09 area_px=  52 bbox=(711,61,14,4) circ=0.452 diam_mm=0.363 keep=False
+[DEBUG] comp=10 area_px=  57 bbox=(553,62,6,11) circ=0.635 diam_mm=0.330 keep=False
+[DEBUG] comp=11 area_px= 290 bbox=(712,67,15,25) circ=0.630 diam_mm=0.774 keep=True
+[DEBUG] comp=12 area_px= 101 bbox=(461,73,8,16) circ=0.579 diam_mm=0.468 keep=False
+[DEBUG] comp=13 area_px=  25 bbox=(58,74,5,5) circ=0.785 diam_mm=0.188 keep=False
+[DEBUG] comp=14 area_px=  41 bbox=(186,74,6,7) circ=0.808 diam_mm=0.253 keep=False
+[DEBUG] comp=15 area_px=  25 bbox=(560,78,5,5) circ=0.785 diam_mm=0.188 keep=False
+[DEBUG] comp=16 area_px=  46 bbox=(101,83,8,6) circ=0.768 diam_mm=0.273 keep=False
+[DEBUG] comp=17 area_px=  40 bbox=(32,85,6,7) circ=0.781 diam_mm=0.250 keep=False
+[DEBUG] comp=18 area_px=  94 bbox=(614,85,9,12) circ=0.751 diam_mm=0.407 keep=False
+[DEBUG] comp=19 area_px= 159 bbox=(53,86,12,20) circ=0.443 diam_mm=0.606 keep=False
+[DEBUG] comp=20 area_px= 134 bbox=(116,87,11,14) circ=0.738 diam_mm=0.493 keep=False
+[DEBUG] comp=21 area_px= 351 bbox=(688,87,10,40) circ=0.461 diam_mm=1.043 keep=True
+[DEBUG] comp=22 area_px=  15 bbox=(727,90,3,5) circ=0.698 diam_mm=0.142 keep=False
+[DEBUG] comp=23 area_px=  76 bbox=(482,95,7,12) circ=0.719 diam_mm=0.376 keep=False
+[DEBUG] comp=24 area_px=  35 bbox=(663,94,5,7) circ=0.754 diam_mm=0.233 keep=False
+[DEBUG] comp=25 area_px=  25 bbox=(606,98,5,5) circ=0.785 diam_mm=0.188 keep=False
+[DEBUG] comp=26 area_px=  61 bbox=(32,102,7,9) circ=0.778 diam_mm=0.319 keep=False
+[DEBUG] comp=27 area_px=  40 bbox=(42,102,5,8) circ=0.727 diam_mm=0.256 keep=False
+[DEBUG] comp=28 area_px=  54 bbox=(576,103,8,7) circ=0.788 diam_mm=0.296 keep=False
+[DEBUG] comp=29 area_px=  41 bbox=(463,106,6,7) circ=0.808 diam_mm=0.253 keep=False
+[DEBUG] comp=30 area_px=  41 bbox=(62,109,6,7) circ=0.808 diam_mm=0.253 keep=False
+[DEBUG] comp=31 area_px=  52 bbox=(422,109,6,9) circ=0.749 diam_mm=0.296 keep=False
+[DEBUG] comp=32 area_px=  97 bbox=(674,108,8,14) circ=0.718 diam_mm=0.430 keep=False
+[DEBUG] comp=33 area_px=  48 bbox=(52,111,7,7) circ=0.814 diam_mm=0.276 keep=False
+[DEBUG] comp=34 area_px=  98 bbox=(114,110,8,15) circ=0.623 diam_mm=0.453 keep=False
+[DEBUG] comp=35 area_px=  59 bbox=(662,115,9,7) circ=0.786 diam_mm=0.315 keep=False
+[DEBUG] comp=36 area_px=  66 bbox=(323,118,7,11) circ=0.729 diam_mm=0.346 keep=False
+[DEBUG] comp=37 area_px=  85 bbox=(305,120,9,10) circ=0.793 diam_mm=0.381 keep=False
+[DEBUG] comp=38 area_px=  45 bbox=(435,120,6,8) circ=0.745 diam_mm=0.271 keep=False
+[DEBUG] comp=39 area_px=  63 bbox=(576,120,8,8) circ=0.811 diam_mm=0.322 keep=False
+[DEBUG] comp=40 area_px=  21 bbox=(727,121,3,7) circ=0.589 diam_mm=0.188 keep=False
+[DEBUG] comp=41 area_px=  45 bbox=(40,122,5,9) circ=0.698 diam_mm=0.279 keep=False
+[DEBUG] comp=42 area_px=  45 bbox=(182,122,7,7) circ=0.745 diam_mm=0.267 keep=False
+[DEBUG] comp=43 area_px=  30 bbox=(111,126,5,6) circ=0.776 diam_mm=0.210 keep=False
+[DEBUG] comp=44 area_px= 160 bbox=(134,131,7,27) circ=0.417 diam_mm=0.719 keep=False
+[DEBUG] comp=45 area_px= 338 bbox=(639,131,19,31) circ=0.362 diam_mm=0.884 keep=False
+[DEBUG] comp=46 area_px= 113 bbox=(160,134,7,17) circ=0.644 diam_mm=0.490 keep=False
+[DEBUG] comp=47 area_px= 111 bbox=(178,139,8,16) circ=0.674 diam_mm=0.479 keep=False
+[DEBUG] comp=48 area_px=  88 bbox=(115,144,10,10) circ=0.788 diam_mm=0.389 keep=False
+[DEBUG] comp=49 area_px=  30 bbox=(695,148,5,6) circ=0.776 diam_mm=0.210 keep=False
+[DEBUG] comp=50 area_px=  25 bbox=(70,154,5,5) circ=0.785 diam_mm=0.188 keep=False
+[DEBUG] comp=51 area_px=  55 bbox=(131,161,7,9) circ=0.757 diam_mm=0.302 keep=False
+[DEBUG] comp=52 area_px=  79 bbox=(134,176,7,12) circ=0.692 diam_mm=0.385 keep=False
+[DEBUG] comp=53 area_px= 762 bbox=(106,206,11,102) circ=0.164 diam_mm=2.693 keep=False
+[DEBUG] comp=54 area_px=  46 bbox=(613,213,6,8) circ=0.768 diam_mm=0.273 keep=False
+[DEBUG] comp=55 area_px=  73 bbox=(121,214,6,14) circ=0.570 diam_mm=0.399 keep=False
+[DEBUG] comp=56 area_px=  41 bbox=(134,218,6,7) circ=0.808 diam_mm=0.253 keep=False
+[DEBUG] comp=57 area_px=  54 bbox=(45,221,6,10) circ=0.698 diam_mm=0.311 keep=False
+[DEBUG] comp=58 area_px=  25 bbox=(72,226,5,5) circ=0.785 diam_mm=0.188 keep=False
+[DEBUG] comp=59 area_px=  30 bbox=(503,228,6,5) circ=0.776 diam_mm=0.210 keep=False
+[DEBUG] comp=60 area_px= 109 bbox=(612,228,9,15) circ=0.706 diam_mm=0.461 keep=False
+[DEBUG] comp=61 area_px=  40 bbox=(502,249,6,7) circ=0.781 diam_mm=0.250 keep=False
+[DEBUG] comp=62 area_px= 207 bbox=(135,296,16,15) circ=0.726 diam_mm=0.615 keep=True
+[DEBUG] comp=63 area_px=  35 bbox=(277,296,5,7) circ=0.754 diam_mm=0.233 keep=False
+[DEBUG] comp=64 area_px=  47 bbox=(718,347,6,8) circ=0.791 diam_mm=0.276 keep=False
+[DEBUG] comp=65 area_px= 163 bbox=(693,350,14,15) circ=0.738 diam_mm=0.544 keep=True
+[DEBUG] comp=66 area_px= 129 bbox=(396,354,13,13) circ=0.701 diam_mm=0.498 keep=False
+[DEBUG] comp=67 area_px=  35 bbox=(678,395,5,7) circ=0.754 diam_mm=0.233 keep=False
+[DEBUG] comp=68 area_px=  58 bbox=(142,401,8,8) circ=0.859 diam_mm=0.308 keep=False
+[DEBUG] comp=69 area_px=  63 bbox=(71,443,7,10) circ=0.726 diam_mm=0.333 keep=False
+[DEBUG] comp=70 area_px= 173 bbox=(693,446,13,16) circ=0.749 diam_mm=0.567 keep=True
+[DEBUG] comp=71 area_px=  71 bbox=(401,455,10,8) circ=0.800 diam_mm=0.347 keep=False
+[DEBUG] comp=72 area_px= 100 bbox=(617,505,13,12) circ=0.550 diam_mm=0.447 keep=False
+[DEBUG] comp=73 area_px=  40 bbox=(143,508,7,6) circ=0.781 diam_mm=0.250 keep=False
+[DEBUG] comp=74 area_px=  85 bbox=(479,510,11,9) circ=0.787 diam_mm=0.389 keep=False
+[DEBUG] comp=75 area_px= 148 bbox=(694,546,14,12) circ=0.754 diam_mm=0.521 keep=False
+[DEBUG] comp=76 area_px=  74 bbox=(400,550,10,9) circ=0.727 diam_mm=0.362 keep=False
+[DEBUG] comp=77 area_px=  76 bbox=(139,611,10,10) circ=0.655 diam_mm=0.362 keep=False
+[DEBUG] comp=78 area_px=  60 bbox=(278,611,8,8) circ=0.848 diam_mm=0.314 keep=False
+[DEBUG] comp=79 area_px=  46 bbox=(732,741,4,13) circ=0.443 diam_mm=0.338 keep=False
+[DEBUG] comp=80 area_px= 282 bbox=(219,813,21,20) circ=0.531 diam_mm=0.728 keep=True
+[DEBUG] comp=81 area_px=11462 bbox=(778,868,19,1188) circ=0.020 diam_mm=31.609 keep=False
+[DEBUG] comp=82 area_px= 207 bbox=(719,1009,17,17) circ=0.636 diam_mm=0.625 keep=True
+[DEBUG] comp=83 area_px= 288 bbox=(233,1022,20,20) circ=0.532 diam_mm=0.725 keep=True
+[DEBUG] comp=84 area_px= 223 bbox=(537,1022,16,17) circ=0.713 diam_mm=0.646 keep=True
+[DEBUG] comp=85 area_px= 324 bbox=(183,1175,21,18) circ=0.759 diam_mm=0.781 keep=True
+[DEBUG] comp=86 area_px= 219 bbox=(725,1262,16,18) circ=0.664 diam_mm=0.635 keep=True
+[DEBUG] comp=87 area_px= 370 bbox=(539,1319,21,23) circ=0.718 diam_mm=0.834 keep=True
+[DEBUG] comp=88 area_px= 340 bbox=(234,1322,23,22) circ=0.510 diam_mm=0.815 keep=True
+[DEBUG] comp=89 area_px= 263 bbox=(723,1325,20,18) circ=0.635 diam_mm=0.698 keep=True
+[DEBUG] comp=90 area_px=  39 bbox=(775,1652,6,7) circ=0.811 diam_mm=0.247 keep=False
+[DEBUG] comp=91 area_px=  56 bbox=(765,1669,7,9) circ=0.733 diam_mm=0.310 keep=False
+[DEBUG] comp=92 area_px=  93 bbox=(769,1687,8,14) circ=0.656 diam_mm=0.421 keep=False
+[DEBUG] comp=93 area_px= 144 bbox=(759,1706,10,19) circ=0.556 diam_mm=0.552 keep=False
+[DEBUG] comp=94 area_px=  95 bbox=(756,1728,13,8) circ=0.704 diam_mm=0.423 keep=False
+[DEBUG] comp=95 area_px=  30 bbox=(764,1741,5,6) circ=0.776 diam_mm=0.210 keep=False
+[DEBUG] comp=96 area_px=  68 bbox=(756,1760,7,11) circ=0.757 diam_mm=0.347 keep=False
+[DEBUG] comp=97 area_px= 690 bbox=(738,1778,25,56) circ=0.296 diam_mm=1.451 keep=False
+[DEBUG] comp=98 area_px=  76 bbox=(742,1884,8,11) circ=0.688 diam_mm=0.365 keep=False
+[DEBUG] comp=99 area_px=  65 bbox=(741,1896,5,13) circ=0.589 diam_mm=0.371 keep=False
+[DEBUG] comp=100 area_px= 269 bbox=(749,1904,16,24) circ=0.589 diam_mm=0.751 keep=True
+[DEBUG] comp=101 area_px= 167 bbox=(722,1912,12,16) circ=0.744 diam_mm=0.559 keep=True
+[DEBUG] comp=102 area_px= 151 bbox=(751,1933,11,17) circ=0.679 diam_mm=0.551 keep=False
+[DEBUG] comp=103 area_px=33059 bbox=(273,1942,524,348) circ=0.059 diam_mm=17.915 keep=False
+[DEBUG] comp=104 area_px=  53 bbox=(768,1942,7,8) circ=0.769 diam_mm=0.294 keep=False
+[DEBUG] comp=105 area_px= 141 bbox=(750,1959,14,14) circ=0.511 diam_mm=0.517 keep=False
+[DEBUG] comp=106 area_px=  40 bbox=(747,1977,8,5) circ=0.727 diam_mm=0.256 keep=False
+[DEBUG] comp=107 area_px= 470 bbox=(410,1994,28,24) circ=0.651 diam_mm=0.951 keep=True
+[DEBUG] comp=108 area_px=  35 bbox=(755,1996,6,6) circ=0.817 diam_mm=0.230 keep=False
+[DEBUG] comp=109 area_px= 385 bbox=(226,1998,25,21) circ=0.663 diam_mm=0.870 keep=True
+[DEBUG] comp=110 area_px=  78 bbox=(737,2002,9,10) circ=0.777 diam_mm=0.363 keep=False
+[DEBUG] comp=111 area_px=  15 bbox=(81,2033,3,5) circ=0.698 diam_mm=0.142 keep=False
+[DEBUG] comp=112 area_px=  30 bbox=(785,2050,5,6) circ=0.776 diam_mm=0.210 keep=False
+[DEBUG] comp=113 area_px= 926 bbox=(779,2066,18,66) circ=0.423 diam_mm=1.747 keep=False
+[DEBUG] comp=114 area_px=  15 bbox=(794,2129,3,5) circ=0.698 diam_mm=0.142 keep=False
+[DEBUG] comp=115 area_px= 284 bbox=(782,2135,11,36) circ=0.394 diam_mm=0.949 keep=False
+[DEBUG] comp=116 area_px= 101 bbox=(502,2150,6,18) circ=0.504 diam_mm=0.499 keep=False
+[DEBUG] comp=117 area_px=  40 bbox=(405,2174,5,8) circ=0.727 diam_mm=0.256 keep=False
+[DEBUG] comp=118 area_px=  25 bbox=(204,2198,5,5) circ=0.785 diam_mm=0.188 keep=False
+[DEBUG] comp=119 area_px=  45 bbox=(407,2211,5,9) circ=0.698 diam_mm=0.279 keep=False
+[DEBUG] comp=120 area_px=3206 bbox=(84,2261,186,29) circ=0.157 diam_mm=4.640 keep=False

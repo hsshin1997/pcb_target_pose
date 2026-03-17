@@ -1,8 +1,8 @@
 {
-  "test_crop": {
-    "detected_holes": 6,
-    "output_dir": "hole_detection_output/test_crop",
-    "holes_json": "hole_detection_output/test_crop/test_crop_holes.json",
-    "debug_txt": "hole_detection_output/test_crop/test_crop_debug.txt"
+  "low": {
+    "detected_holes": 18,
+    "output_dir": "hole_detection_output/low",
+    "holes_json": "hole_detection_output/low/low_holes.json",
+    "debug_txt": "hole_detection_output/low/low_debug.txt"
   }
 }
