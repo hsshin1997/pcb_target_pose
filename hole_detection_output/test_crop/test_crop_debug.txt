@@ -1,0 +1,14 @@
+[INFO] file=ptcld/test_crop.xyz
+[INFO] detected_holes=6
+[INFO] plane_normal=[0.5879339636533493, -0.00775515349392375, 0.8088717524905588]
+[INFO] surface_band_mm=0.1650
+[INFO] surface_points_used=536528
+[DEBUG] comp=01 area_px=41890 bbox=(0,0,574,899) circ=0.031 diam_mm=30.495 keep=False
+[DEBUG] comp=02 area_px= 355 bbox=(114,122,23,21) circ=0.761 diam_mm=0.814 keep=True
+[DEBUG] comp=03 area_px= 337 bbox=(430,326,24,19) circ=0.697 diam_mm=0.802 keep=True
+[DEBUG] comp=04 area_px= 411 bbox=(126,329,26,23) circ=0.602 diam_mm=0.893 keep=True
+[DEBUG] comp=05 area_px= 421 bbox=(79,480,24,21) circ=0.810 diam_mm=0.892 keep=True
+[DEBUG] comp=06 area_px= 431 bbox=(434,624,25,24) circ=0.707 diam_mm=0.905 keep=True
+[DEBUG] comp=07 area_px= 421 bbox=(131,628,24,23) circ=0.689 diam_mm=0.887 keep=True
+[DEBUG] comp=08 area_px=4187 bbox=(132,885,442,14) circ=0.054 diam_mm=16.252 keep=False
+[DEBUG] comp=09 area_px=  75 bbox=(87,896,25,3) circ=0.223 diam_mm=0.601 keep=False

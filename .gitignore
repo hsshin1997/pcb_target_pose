@@ -19,9 +19,14 @@ build/
 dist/
 *.log
 
+# Data
+/ptcld
+
 # Environment files
 .env
 .env.*
 
 # Misc
-*.tmp
+*.tmpptcld/pcb.xyz
+ptcld/pcb_crop2.xyz
+ptcld/pcb_crop1_1.xyz

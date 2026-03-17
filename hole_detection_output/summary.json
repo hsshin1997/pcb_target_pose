@@ -1,0 +1,8 @@
+{
+  "test_crop": {
+    "detected_holes": 6,
+    "output_dir": "hole_detection_output/test_crop",
+    "holes_json": "hole_detection_output/test_crop/test_crop_holes.json",
+    "debug_txt": "hole_detection_output/test_crop/test_crop_debug.txt"
+  }
+}

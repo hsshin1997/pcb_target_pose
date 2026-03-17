@@ -1,0 +1,22 @@
+[INFO] file=ptcld/pipeline_test_part_ptcld_cropped2.xyz
+[INFO] detected_holes=9
+[INFO] plane_normal=[0.5872555955900252, -3.7086540637720766e-05, 0.8094015468682978]
+[INFO] surface_band_mm=0.1996
+[INFO] surface_points_used=457049
+[DEBUG] comp=01 area_px=32152 bbox=(0,0,649,654) circ=0.042 diam_mm=29.952 keep=False
+[DEBUG] comp=02 area_px= 331 bbox=(94,60,22,19) circ=0.769 diam_mm=0.788 keep=True
+[DEBUG] comp=03 area_px= 311 bbox=(592,254,22,17) circ=0.782 diam_mm=0.768 keep=True
+[DEBUG] comp=04 area_px= 333 bbox=(409,265,23,20) circ=0.738 diam_mm=0.794 keep=True
+[DEBUG] comp=05 area_px= 432 bbox=(106,266,24,23) circ=0.812 diam_mm=0.904 keep=True
+[DEBUG] comp=06 area_px= 360 bbox=(56,418,24,19) circ=0.750 diam_mm=0.826 keep=True
+[DEBUG] comp=07 area_px= 323 bbox=(593,505,22,21) circ=0.689 diam_mm=0.777 keep=True
+[DEBUG] comp=08 area_px= 424 bbox=(410,563,24,24) circ=0.755 diam_mm=0.892 keep=True
+[DEBUG] comp=09 area_px= 404 bbox=(107,567,24,20) circ=0.778 diam_mm=0.881 keep=True
+[DEBUG] comp=10 area_px= 331 bbox=(594,568,23,20) circ=0.564 diam_mm=0.773 keep=True
+[DEBUG] comp=11 area_px=  33 bbox=(236,651,11,3) circ=0.436 diam_mm=0.279 keep=False
+[DEBUG] comp=12 area_px=  24 bbox=(266,651,8,3) circ=0.543 diam_mm=0.210 keep=False
+[DEBUG] comp=13 area_px=  30 bbox=(284,651,10,3) circ=0.467 diam_mm=0.256 keep=False
+[DEBUG] comp=14 area_px=  69 bbox=(316,651,23,3) circ=0.240 diam_mm=0.555 keep=False
+[DEBUG] comp=15 area_px=  33 bbox=(342,651,11,3) circ=0.436 diam_mm=0.279 keep=False
+[DEBUG] comp=16 area_px=  51 bbox=(569,651,17,3) circ=0.310 diam_mm=0.417 keep=False
+[DEBUG] comp=17 area_px= 223 bbox=(589,650,60,4) circ=0.131 diam_mm=1.445 keep=False

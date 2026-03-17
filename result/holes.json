@@ -1,0 +1,16 @@
+{
+  "holes": [],
+  "meta": {
+    "hole_min_d_mm": 0.8,
+    "hole_max_d_mm": 2.0,
+    "plane_thresh_mm": 0.2,
+    "z_keep_thresh_mm": 0.2,
+    "pixel_mm": 0.05,
+    "spacing_mm_median": 0.1529641216030461,
+    "image_size_px": [
+      559,
+      564
+    ],
+    "holes_found": 0
+  }
+}
